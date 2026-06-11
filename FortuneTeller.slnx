@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FortuneApplication/FortuneApplication.csproj" />
+  <Project Path="FortuneDomain/FortuneDomain.csproj" />
+  <Project Path="FortuneInfrastructure/FortuneInfrastructure.csproj" />
+  <Project Path="FortuneTeller/FortuneTeller.csproj" />
+</Solution>

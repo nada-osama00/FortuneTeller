@@ -1,0 +1,6 @@
+@FortuneTeller_HostAddress = http://localhost:5189
+
+GET {{FortuneTeller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
